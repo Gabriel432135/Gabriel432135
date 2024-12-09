@@ -5,7 +5,9 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gabriel432135)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabriel432135@hotmail.com)
 
-![Gabriel432135's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel432135&show_icons=true&theme=transparent)
+![Gabriel432135's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel432135&show_icons=true&theme=transparent&rank_icon=github)
+
+![Gabriel432135's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel432135&theme=transparent&layout=compact)
 
 ## Meu interesse:
 <div style="display: inline_block"> <br/>
