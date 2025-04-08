@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel 👋
 
-Sou um curioso com sede de entender tudo: Dos bits aos protocolos.  
+Sou um curioso com sede de entender tudo: **Dos bits aos protocolos.** 
 Gosto de explorar as entranhas da TI — **modding**, **redes**, **Android**, **engenharia reversa**, **criptografia** e tudo mais que dê pra desmontar.
 
 
