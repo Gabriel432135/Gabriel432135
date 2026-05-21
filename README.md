@@ -12,7 +12,7 @@ Gosto de explorar as entranhas da TI — **modding**, **redes**, **Android**, **
 
 <!--![Gabriel432135's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel432135&show_icons=true&theme=transparent&rank_icon=github)-->
 
-![Gabriel432135's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel432135&theme=transparent&layout=compact)
+<!--![Gabriel432135's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel432135&theme=transparent&layout=compact)-->
 
 ## Meu interesse:
 <div style="display: inline_block"> <br/>
