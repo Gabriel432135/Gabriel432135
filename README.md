@@ -11,7 +11,6 @@ Gosto de explorar as entranhas da TI — **modding**, **redes**, **Android**, **
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabriel432135@hotmail.com)
 
 <!--![Gabriel432135's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel432135&show_icons=true&theme=transparent&rank_icon=github)-->
-
 <!--![Gabriel432135's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel432135&theme=transparent&layout=compact)-->
 
 ## Meu interesse:
